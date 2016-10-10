@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator4</string>
+    <string name="buttonSquareRoot">√</string>
+    <string name="buttonSquared">x²</string>
+</resources>
