@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="17"
+    format="7"
+    timestamp="9017108020895"
+    token="4047077711856786579" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\Anantassa\Mobcomp\Course2\Calculator4\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="9017108020895" >
+        <artifact
+            location="D:\Anantassa\Mobcomp\Course2\Calculator4\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

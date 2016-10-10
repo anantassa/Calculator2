@@ -1,0 +1,3 @@
+CHANGED,D:\Anantassa\Mobcomp\Course2\Calculator4\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\tassa\calculator4\MainActivity$override.class
+CHANGED,D:\Anantassa\Mobcomp\Course2\Calculator4\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Anantassa\Mobcomp\Course2\Calculator4\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\tassa\calculator4\R$id$override.class
